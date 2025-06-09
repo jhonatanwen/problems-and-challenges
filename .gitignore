@@ -17,6 +17,7 @@ obj/
 *.dll
 *.pdb
 *.user
+*.sln
 *.suo
 *.cache
 packages/
