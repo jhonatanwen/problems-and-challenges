@@ -12,6 +12,7 @@ hs_err_pid*
 # C#
 bin/
 obj/
+*.csproj
 *.exe
 *.dll
 *.pdb
